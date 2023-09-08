@@ -57,6 +57,8 @@ const Appbar = ({ drawerWidth, showDrawer }) => {
             >
               <Typography className="heroText" variant="h4">
                 .Hello, and welcome ❕
+
+              and Hiiiiiiiiiiiiiiii
               </Typography>
               <br />
               <br />

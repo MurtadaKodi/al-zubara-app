@@ -1,0 +1,42 @@
+.container{
+  /* border: 5px solid red; */
+  padding: 10px;
+  width: 100%;
+  overflow: hidden;
+  
+  
+  
+  
+  
+
+}
+.gallery{
+  height: 54vh;
+  width: 100%;
+  display: flex;
+  /* margin-left: 240px; */
+  /* border: 5px solid rgb(30, 200, 30); */
+  justify-content: center;
+  
+}
+.image img{
+  width: 500px;
+  height: 375px;
+  pointer-events: none;
+}
+.image img:hover{
+  width: 500px;
+  height: 400px;
+  pointer-events: none;
+}
+.inner{
+  display: flex;
+  gap: 20px;
+  cursor: grab;
+  padding-top: 20px;
+}
+.fram-map{
+margin-left: 10px;
+width:1240px;
+height:500px;
+}

@@ -1,0 +1,18 @@
+.card-card{
+
+  display: block;
+  margin: 1px;
+  margin-top: 10px;
+  max-width: 32%;
+  margin: 5px;
+  
+  
+}
+.card-border{
+  
+  display: flex !important;
+  /* justify-content: space-evenly; */
+  /* margin: 10px 0; */
+  flex-wrap: wrap;
+  max-width: 100%;
+}
